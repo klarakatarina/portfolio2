@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://klarakatarina.github.io/portfolio2/sitemap.xml
